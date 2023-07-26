@@ -4,12 +4,12 @@
 <br/>
 
 <!-- <h1 align="center">Hi 👋, I'm Papa Kofi Boahen</h1> -->
-<h3 align="center">An aspiring frontend developer from Ghana, West Africa</h3>
+<h3 align="center">An aspiring frontend UI developer from Ghana, West Africa</h3>
 
 
 - 🔭 I’m currently working on **my personal portfolio site**
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Boahen123](https://github.com/Boahen123)
 
@@ -31,6 +31,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 
  </p>
 
