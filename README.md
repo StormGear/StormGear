@@ -7,7 +7,7 @@
 <h3 align="center">An aspiring frontend UI developer from Ghana, West Africa</h3>
 
 
-- 🔭 I’m currently working on **my personal portfolio site**
+- 🔭 I’m currently working on **[https://github.com/Boahen123](papakofi.live)**
 
 - 🌱 I’m currently learning **flutter**
 
