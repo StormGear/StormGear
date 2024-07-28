@@ -7,9 +7,9 @@
 <h3 align="center">An aspiring frontend UI developer from Ghana, West Africa</h3>
 
 
-- 🔭 I’m currently working on **[papakofi.live](https://papakofi.live)**
+- 🔭 I’m currently working on **[myclean](https://mycleanapp.org/)** join our [beta testers](https://docs.google.com/forms/d/e/1FAIpQLSd7tRTJBNWDIfQ22trZGaYAeYZD0kQlCy5Q1hQ0RgcQK8QCzQ/viewform)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Boahen123](https://github.com/Boahen123)
 
