@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Papa Kofi Boahen
-<img align="center" alt="Coding" width="600" height="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"> 
+<img align="center" alt="Coding"  style="{ margin: 0 auto; width: 80%; text-align: center; }" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> 
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Boahen123](https://github.com/Boahen123)
+- 👨‍💻 All of my projects are available at [https://github.com/StormGear](https://github.com/StormGear)
 
 - 📫 How to reach me **papakofiboahen@gmail.com**
 
@@ -39,6 +39,6 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boahen123&show_icons=true&locale=en&layout=compact" alt="boahen123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormgear&show_icons=true&locale=en&layout=compact" alt="stormgear" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boahen123&show_icons=true&locale=en" alt="boahen123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stormgear&show_icons=true&locale=en" alt="stormgear" /></p>
