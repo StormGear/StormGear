@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[myclean](https://mycleanapp.org/)** join our [beta testers](https://docs.google.com/forms/d/e/1FAIpQLSd7tRTJBNWDIfQ22trZGaYAeYZD0kQlCy5Q1hQ0RgcQK8QCzQ/viewform)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StormGear](https://github.com/StormGear)
 
