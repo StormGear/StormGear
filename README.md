@@ -37,7 +37,8 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/StormGear/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/StormGear/langs?time_range=one_year&theme=classic)](https://githubtrends.io)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormgear&show_icons=true&locale=en&layout=compact" alt="stormgear" /></p>
 
