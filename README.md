@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,express,nodejs,flutter,dart,postgres,firebase,gcp,c,bootstrap,heroku,arduino,latex,django,git,github,py,tailwind,matlab,postman,aws)](https://skillicons.dev)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,js,express,nodejs,flutter,dart,postgres,firebase,gcp,c,bootstrap,heroku,fastlane,arduino,latex,django,git,github,py,tailwind,matlab,postman,aws)
 
 
 
