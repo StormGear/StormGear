@@ -5,7 +5,7 @@
 <br/>
 
 <!-- <h1 align="center">Hi 👋, I'm Papa Kofi Boahen</h1> -->
-<h3 align="center">An aspiring frontend UI developer from Ghana, West Africa</h3>
+<h3 align="center">A Software Engineer from Ghana, West Africa</h3>
 
 
 - 🔭 I’m currently working on **[myclean](https://mycleanapp.org/)** available on [iOS App Store]() and [Android PlayStore]()
