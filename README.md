@@ -8,7 +8,7 @@
 <h3 align="center">A Software Engineer from Ghana, West Africa</h3>
 
 
-- 🔭 I’m currently working on **[myclean](https://mycleanapp.org/)** available on [iOS App Store](https://apps.apple.com/gh/app/myclean-app/id6553992726) and [Android PlayStore](https://play.google.com/store/apps/details?id=com.myclean.myclean_app)
+- 🔭 I’m currently working on **[myclean](https://mycleanapp.org/)** a digital waste management solution available on [iOS App Store](https://apps.apple.com/gh/app/myclean-app/id6553992726) and [Android PlayStore](https://play.google.com/store/apps/details?id=com.myclean.myclean_app).
 
 - 🌱 I’m currently learning **Flutter** and **React**.
 
