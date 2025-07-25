@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **[myclean](https://mycleanapp.org/)** a digital waste management solution available on [iOS App Store](https://apps.apple.com/gh/app/myclean-app/id6553992726) and [Android PlayStore](https://play.google.com/store/apps/details?id=com.myclean.myclean_app).
 
-- 🌱 I’m currently learning **Flutter** and **React**.
+- 🌱 I’m currently learning **Flutter** and **React**. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/StormGear](https://github.com/StormGear).
+- 👨‍💻 Hacking at [Devpost](https://devpost.com/papakofiboahen) from time to time. All of my projects are available at [https://github.com/StormGear](https://github.com/StormGear).
 
 - 📫 How to reach me **papakofiboahen@gmail.com**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,js,express,nodejs,flutter,dart,postgres,firebase,gcp,c,bootstrap,heroku,fastlane,arduino,latex,django,git,github,py,tailwind,matlab,postman,aws)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,js,ts,java,gcp,docker,express,nodejs,flutter,dart,postgres,firebase,gcp,c,bootstrap,heroku,fastlane,arduino,latex,django,git,github,py,tailwind,matlab,postman,aws)
 
 
 
